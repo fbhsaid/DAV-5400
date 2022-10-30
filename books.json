@@ -1,20 +1,20 @@
 [
     {
-        "titles": "And Then There Were None",
-        "authors": "Agatha Christie",
-        "attributes 1": "First detective book to introduce the snowstorm villa model",
-        "attributes 2": "Use of nursery rhyme"
+        "Titles": "And Then There Were None",
+        "Authors": "Agatha Christie",
+        "Attributes 1": "First detective book to introduce the snowstorm villa model",
+        "Attributes 2": "Use of nursery rhyme"
     },
     {
-        "titles": "Blink of an Eye",
-        "authors": "Iris Johansen, Roy Johansen",
-        "attributes 1": "Unique method",
-        "attributes 2": "Mother and son co-author"
+        "Titles": "Blink of an Eye",
+        "Authors": "Iris Johansen, Roy Johansen",
+        "Attributes 1": "Unique method",
+        "Attributes 2": "Mother and son co-author"
     },
     {
-        "titles": "The Hollow Man",
-        "authors": "John Dickson Carr",
-        "attributes 1": "Writer verified escape-room method",
-        "attributes 2": "Handout like detective story"
+        "Titles": "The Hollow Man",
+        "Authors": "John Dickson Carr",
+        "Attributes 1": "Writer verified escape-room method",
+        "Attributes 2": "Handout like detective story"
     }
 ]
