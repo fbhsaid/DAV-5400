@@ -1,4 +1,4 @@
-,Title,Year,Rated,Runtime,Genre,imdbRating,imdbVotes,BoxOffice
+Ôªø,Title,Year,Rated,Runtime,Genre,imdbRating,imdbVotes,BoxOffice
 0,The Shawshank Redemption,1994,R,142 min,Drama,9.3,"2,662,343","$28,767,189"
 1,The Godfather,1972,R,175 min,"Crime, Drama",9.2,"1,847,150","$136,381,073"
 2,The Dark Knight,2008,PG-13,152 min,"Action, Crime, Drama",9.0,"2,638,780","$534,987,076"
@@ -47,7 +47,7 @@
 45,Gladiator,2000,R,155 min,"Action, Adventure, Drama",8.5,"1,493,754","$187,705,427"
 46,American History X,1998,R,119 min,"Crime, Drama",8.5,"1,118,467","$6,719,864"
 47,The Usual Suspects,1995,R,106 min,"Crime, Drama, Mystery",8.5,"1,082,635","$23,341,568"
-48,L®¶on: The Professional,1994,R,110 min,"Action, Crime, Drama",8.5,"1,156,875","$19,501,238"
+48,L√©on: The Professional,1994,R,110 min,"Action, Crime, Drama",8.5,"1,156,875","$19,501,238"
 49,The Lion King,1994,G,88 min,"Animation, Adventure, Drama",8.5,"1,052,735","$422,783,777"
 50,Cinema Paradiso,1988,PG,155 min,"Drama, Romance",8.5,"260,909","$12,397,210"
 51,Grave of the Fireflies,1988,Not Rated,89 min,"Animation, Drama, War",8.5,"276,663","$516,962"
@@ -79,7 +79,7 @@
 77,Shershaah,2021,TV-14,135 min,"Action, Biography, Drama",8.4,"121,070",N/A
 78,Sardar Udham,2021,TV-MA,164 min,"Biography, Crime, Drama",8.4,"42,325",N/A
 79,Like Stars on Earth,2007,PG,165 min,"Drama, Family",8.3,"193,806","$1,223,869"
-80,WALL°§E,2008,G,98 min,"Animation, Adventure, Family",8.4,"1,112,363","$223,808,164"
+80,WALL¬∑E,2008,G,98 min,"Animation, Adventure, Family",8.4,"1,112,363","$223,808,164"
 81,The Lives of Others,2006,R,137 min,"Drama, Mystery, Thriller",8.4,"389,133","$11,286,112"
 82,Oldboy,2003,R,120 min,"Action, Drama, Mystery",8.4,"578,285","$707,481"
 83,Memento,2000,R,113 min,"Mystery, Thriller",8.4,"1,234,280","$25,544,867"
@@ -112,7 +112,7 @@
 110,Toy Story 3,2010,G,103 min,"Animation, Adventure, Comedy",8.3,"834,338","$415,004,880"
 111,Inglourious Basterds,2009,R,153 min,"Adventure, Drama, War",8.3,"1,441,001","$120,540,719"
 112,Eternal Sunshine of the Spotless Mind,2004,R,108 min,"Drama, Romance, Sci-Fi",8.3,"1,003,816","$34,400,301"
-113,Am®¶lie,2001,R,122 min,"Comedy, Romance",8.3,"756,208","$33,225,499"
+113,Am√©lie,2001,R,122 min,"Comedy, Romance",8.3,"756,208","$33,225,499"
 114,Requiem for a Dream,2000,Unrated,102 min,Drama,8.3,"840,283","$3,635,482"
 115,Good Will Hunting,1997,R,126 min,"Drama, Romance",8.3,"963,999","$138,433,435"
 116,Toy Story,1995,G,81 min,"Animation, Adventure, Comedy",8.3,"990,679","$223,225,679"
@@ -262,7 +262,7 @@
 260,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143 min,"Action, Adventure, Fantasy",8.1,"1,121,669","$305,413,918"
 261,Dil Chahta Hai,2001,Not Rated,183 min,"Comedy, Drama, Romance",8.1,"72,653",N/A
 262,Catch Me If You Can,2002,PG-13,141 min,"Biography, Crime, Drama",8.1,"973,233","$164,615,351"
-263,Her Sey ?ok G®πzel Olacak,1998,N/A,107 min,"Comedy, Drama, Thriller",8.1,"25,743",N/A
+263,Her Sey √áok G√ºzel Olacak,1998,N/A,107 min,"Comedy, Drama, Thriller",8.1,"25,743",N/A
 264,Amores perros,2000,R,154 min,"Drama, Thriller",8.1,"241,047","$5,408,467"
 265,Hera Pheri,2000,Not Rated,156 min,"Action, Comedy, Crime",8.1,"67,143",N/A
 266,Sarfarosh,1999,Not Rated,174 min,"Action, Drama, Thriller",8.1,"25,914","$288,733"
@@ -418,7 +418,7 @@
 416,Wings of Desire,1987,PG-13,128 min,"Drama, Fantasy, Romance",8.0,"71,667","$3,333,969"
 417,"Goodbye, Children",1987,PG,104 min,"Drama, War",8.0,"34,193","$4,542,825"
 418,Castle in the Sky,1986,PG,125 min,"Animation, Adventure, Family",8.0,"166,766","$523,664"
-419,Nausica? of the Valley of the Wind,1984,PG,117 min,"Animation, Adventure, Sci-Fi",8.0,"170,032","$495,770"
+419,Nausica√§ of the Valley of the Wind,1984,PG,117 min,"Animation, Adventure, Sci-Fi",8.0,"170,032","$495,770"
 420,Nostalghia,1983,Not Rated,125 min,Drama,8.0,"27,434","$41,014"
 421,Pink Floyd: The Wall,1982,R,95 min,"Drama, Fantasy, Music",8.0,"81,505","$22,244,207"
 422,Fitzcarraldo,1982,PG,158 min,"Adventure, Drama",8.0,"35,492",N/A
@@ -437,11 +437,11 @@
 435,Butch Cassidy and the Sundance Kid,1969,PG,110 min,"Biography, Crime, Drama",8.0,"216,807","$102,308,889"
 436,Rosemary's Baby,1968,Approved,137 min,"Drama, Horror",8.0,"217,984",N/A
 437,Planet of the Apes,1968,G,112 min,"Adventure, Sci-Fi",8.0,"181,155","$32,589,624"
-438,Le Samoura?,1967,GP,101 min,"Crime, Drama",8.0,"52,121","$39,481"
+438,Le Samoura√Ø,1967,GP,101 min,"Crime, Drama",8.0,"52,121","$39,481"
 439,The Graduate,1967,PG,106 min,"Comedy, Drama, Romance",8.0,"274,218","$104,945,305"
 440,Who's Afraid of Virginia Woolf?,1966,Not Rated,131 min,Drama,8.0,"75,787",N/A
 441,The Leopard,1963,PG,186 min,"Drama, History",8.0,"26,249",N/A
-442,8?,1963,Not Rated,138 min,Drama,8.0,"118,545","$98,760"
+442,8¬Ω,1963,Not Rated,138 min,Drama,8.0,"118,545","$98,760"
 443,The Exterminating Angel,1962,Not Rated,95 min,"Drama, Fantasy",8.0,"33,462",N/A
 444,What Ever Happened to Baby Jane?,1962,Passed,134 min,"Drama, Horror, Thriller",8.0,"57,009",N/A
 445,Sanjuro,1962,Not Rated,96 min,"Action, Drama, Thriller",8.0,"38,562","$46,808"
@@ -830,7 +830,7 @@
 828,Billy Elliot,2000,R,110 min,"Drama, Music",7.7,"135,680","$21,995,263"
 829,Hedwig and the Angry Inch,2001,R,95 min,"Comedy, Drama, Music",7.7,"35,973",N/A
 830,The Count of Monte Cristo,2002,PG-13,131 min,"Action, Adventure, Drama",7.7,"138,692","$54,234,062"
-831,Y tu mam®¢ tambi®¶n,2001,R,106 min,Drama,7.7,"123,487","$13,839,658"
+831,Y tu mam√° tambi√©n,2001,R,106 min,Drama,7.7,"123,487","$13,839,658"
 832,Waking Life,2001,R,99 min,"Animation, Drama, Fantasy",7.7,"64,626","$2,901,447"
 833,Ocean's Eleven,2001,PG-13,116 min,"Crime, Thriller",7.7,"575,251","$183,417,150"
 834,"O Brother, Where Art Thou?",2000,PG-13,107 min,"Adventure, Comedy, Crime",7.7,"312,768","$45,512,588"
@@ -865,7 +865,7 @@
 863,A Few Good Men,1992,R,138 min,"Drama, Thriller",7.7,"265,671","$141,340,178"
 864,Night on Earth,1991,R,129 min,"Comedy, Drama",7.7,"61,066","$2,015,810"
 865,Fried Green Tomatoes,1991,PG-13,130 min,Drama,7.7,"75,712","$82,418,501"
-866,The Double Life of V®¶ronique,1991,R,98 min,"Drama, Fantasy, Music",7.7,"49,124","$1,999,955"
+866,The Double Life of V√©ronique,1991,R,98 min,"Drama, Fantasy, Music",7.7,"49,124","$1,999,955"
 867,Dreams,1990,PG,119 min,"Drama, Fantasy",7.7,"26,786","$1,963,207"
 868,Miller's Crossing,1990,R,115 min,"Crime, Drama, Thriller",7.7,"135,923","$5,080,409"
 869,Home Alone,1990,PG,103 min,"Comedy, Family",7.7,"565,998","$285,761,243"
